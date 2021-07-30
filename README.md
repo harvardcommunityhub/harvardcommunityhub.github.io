@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Welcome to the Harvard Community Hub website! The Harvard Community Hub was founded as an effort to connect Harvard undergraduate students, graduate students, extension school students, alumnae, faculty, and more. While our community focuses on Harvard-affiliate experience, we have made space for members of the public, who may join and, in a select few channels, interact with willing affiliates. To gain access to the private, affiliate-only channels, we have developed a strict verification process that ensures the safety and quality of affiliates' experience.
 
-You can use the [editor on GitHub](https://github.com/harvardcommunityhub/harvardcommunityhub.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+On this website, users will have access to a number of resources, community updates, and more. To ensure transparency with members of the server, we have also made all of our moderation policies and processes publicly available. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Join the Harvard Community Hub, lovingly known to students as HCom, below! 
 
-### Markdown
+IMAGE GOES HERE, IT SHOULD ALSO BE LINKED 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Navigation 
 
-```markdown
-Syntax highlighted code block
+This is where we'll link to all of the other pages in this website. 
 
-# Header 1
-## Header 2
-### Header 3
+### Contact Us 
 
-- Bulleted
-- List
+Should you have any questions or concerns, feel free to contact the moderation team of the Harvard Community Hub. Relevant moderators' and administrators' profiles are shown below. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harvardcommunityhub/harvardcommunityhub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+INSERT IMAGES 
