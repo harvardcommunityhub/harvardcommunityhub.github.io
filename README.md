@@ -9,7 +9,7 @@ Join the [Harvard Community Hub](https://discord.gg/BGKAWZAGJw), lovingly known 
 ### Navigation 
 
 #### General
-<img src="images/harvard_crest.png" height=14px> Rules \
+<img src="images/harvard_crest.png" height=14px> [Rules](/rules)) \
 <img src="images/harvard_crest.png" height=14px> Public Channel Information \
 <img src="images/harvard_crest.png" height=14px> General FAQs
 
