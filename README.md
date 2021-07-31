@@ -9,9 +9,9 @@ Join the [Harvard Community Hub](https://discord.gg/BGKAWZAGJw), lovingly known 
 ### Navigation 
 
 #### General
-<img src="images/harvard_crest.png" height=14px> [Rules](/rules)) \
-<img src="images/harvard_crest.png" height=14px> Public Channel Information \
-<img src="images/harvard_crest.png" height=14px> General FAQs
+<img src="images/harvard_crest.png" height=14px> [Rules](https://harvardcommunityhub.github.io/general/rules) \
+<img src="images/harvard_crest.png" height=14px> [Public Channel Information](https://harvardcommunityhub.github.io/general/channels) \
+<img src="images/harvard_crest.png" height=14px> [General FAQs](https://harvardcommunityhub.github.io/general/faq)
 
 #### Student and Alumnae Information 
 <img src="images/harvard_crest.png" height=14px> Getting Involved \
