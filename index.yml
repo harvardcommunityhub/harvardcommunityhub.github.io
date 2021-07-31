@@ -1,0 +1,4 @@
+- name: General
+  files:
+    - name: Hello
+      path: hello.md
