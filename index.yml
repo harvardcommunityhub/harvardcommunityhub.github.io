@@ -1,4 +1,26 @@
 - name: General
   files:
-    - name: Hello
-      path: hello.md
+    - name: FAQ
+      path: faq.md
+    - name: Channels
+      path: public_channels.md
+    - name: Rules
+      path: rules.md
+- name: Verified
+  files:
+    - name: Moderators
+      path: moderators.md
+    - name: Policy
+      path: policy.md
+    - name: Roles
+      path: roles.md
+    - name: Verification
+      path: verification.md
+- name: Moderation
+  files:
+    - name: FAQ
+      path: faq.md
+    - name: Involvement
+      path: involvement.md
+    - name: Privacy
+      path: privacy.md

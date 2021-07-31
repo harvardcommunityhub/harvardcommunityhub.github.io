@@ -4,19 +4,26 @@ Welcome to the Harvard Community Hub website! The Harvard Community Hub was foun
 
 On this website, users will have access to a number of resources, community updates, and more. To ensure transparency with members of the server, we have also made all of our moderation policies and processes publicly available. 
 
-Join the Harvard Community Hub, lovingly known to students as HCom, below! 
-
-<h4 align="center">Click Here!</h4>
-<p align="center">
-    <a href="https://discord.gg/BGKAWZAGJw"><img src="images/harvard_crest.png" height=90px></a>
-</p>
+Join the [Harvard Community Hub](https://discord.gg/BGKAWZAGJw), lovingly known to students as HCom, now!
 
 ### Navigation 
 
-This is where we'll link to all of the other pages in this website. 
+#### General
+<img src="images/harvard_crest.png" height=14px> Rules \
+<img src="images/harvard_crest.png" height=14px> Public Channel Information \
+<img src="images/harvard_crest.png" height=14px> General FAQs
+
+#### Student and Alumnae Information 
+<img src="images/harvard_crest.png" height=14px> Getting Involved \
+<img src="images/harvard_crest.png" height=14px> Protecting Students' PII \
+<img src="images/harvard_crest.png" height=14px> Verified FAQs 
+
+#### Moderation 
+<img src="images/harvard_crest.png" height=14px> Current Moderators \
+<img src="images/harvard_crest.png" height=14px> Policies \
+<img src="images/harvard_crest.png" height=14px> Verification Process \
+<img src="images/harvard_crest.png" height=14px> Regulars and Images  
 
 ### Contact Us 
 
-Should you have any questions or concerns, feel free to contact the moderation team of the Harvard Community Hub. Relevant moderators' and administrators' profiles are shown below. 
-
-INSERT IMAGES 
+Should you have any questions or concerns, feel free to contact the moderation team of the Harvard Community Hub. Check out the pages above to see what the current moderation team looks like.

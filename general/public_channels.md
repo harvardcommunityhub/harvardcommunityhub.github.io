@@ -1,0 +1,8 @@
+# Public Channels 
+Welcome, non-affiliates! Our server is primarily for Harvard students, alumnae, and other affiliates, but we do have a place for folks generally interested in Harvard in our community. There are two ways you may gain "privileges" in our public and private channels, outlined below. Other than the methods below, there is no way to gain access to private channels. Filling out verification forms as a non-affiliate constitutes a violation of the server rules, so please do not attempt to gain access to the private channels in any other way than specified. 
+
+#### Images Role 
+The `@Images` role is a role given to members of the public channels who, after a period of time, have demonstrated trustworthiness, activity, and general good faith. This role will allow you to post images and links in the public channels. 
+
+#### Regular Role 
+For members of the public channels who are trusted by administrators and moderators, well-liked by students and affiliates, and who have been consistently active over a long period of time, there is a small chance you may be given access to the private channels along with students. You will only gain access to "verified" channels, which do not include student channels, but this is where the majority of activity occurs. Asking for this role genrally lowers your chances of getting the role. Members of the public channels are considered for the role only when students nominate them, their nomination receives enough votes, and moderators choose to approve them. Those with the `@Regular` role are evaluated on the same basis as students. You cannot PM them without their explicit permission.
