@@ -6,7 +6,7 @@ On this website, users will have access to a number of resources, community upda
 
 Join the Harvard Community Hub, lovingly known to students as HCom, below! 
 
-IMAGE GOES HERE, IT SHOULD ALSO BE LINKED 
+<a href="#"><img src="images/community_hub_banner.png"></a>
 
 ### Navigation 
 
