@@ -6,7 +6,7 @@
       path: public_channels.md
     - name: Rules
       path: rules.md
-- name: Verified
+- name: Moderation
   files:
     - name: Moderators
       path: moderators.md
@@ -16,7 +16,7 @@
       path: roles.md
     - name: Verification
       path: verification.md
-- name: Moderation
+- name: Verified
   files:
     - name: FAQ
       path: faq.md
