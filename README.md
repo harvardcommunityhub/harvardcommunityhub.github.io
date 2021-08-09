@@ -16,7 +16,7 @@ Join the [Harvard Community Hub](https://discord.gg/BGKAWZAGJw), lovingly known 
 #### Student and Alumnae Information 
 <img src="images/harvard_crest.png" height=14px> Getting Involved \
 <img src="images/harvard_crest.png" height=14px> Protecting Students' PII \
-<img src="images/harvard_crest.png" height=14px> [Verified FAQs] (https://harvardcommunityhub.github.io/verified/faq)
+<img src="images/harvard_crest.png" height=14px> [Verified FAQs](https://harvardcommunityhub.github.io/verified/faq)
 
 #### Moderation 
 <img src="images/harvard_crest.png" height=14px> Current Moderators \
