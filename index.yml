@@ -12,6 +12,8 @@
       path: moderators.md
     - name: Policy
       path: policy.md
+    - name: Migration
+      path: migration.md
     - name: Roles
       path: roles.md
     - name: Verification

@@ -23,7 +23,7 @@ Join the [Harvard Community Hub](https://discord.gg/BGKAWZAGJw), lovingly known 
 <img src="images/harvard_crest.png" height=14px> Policies \
 <img src="images/harvard_crest.png" height=14px> Verification Process \
 <img src="images/harvard_crest.png" height=14px> Regulars and Images  
+<img src="images/harvard_crest.png" height=14px> [Migration](https://harvardcommunityhub.github.io/moderation/migration) 
 
 ### Contact Us 
-
 Should you have any questions or concerns, feel free to contact the moderation team of the Harvard Community Hub. Check out the pages above to see what the current moderation team looks like.
