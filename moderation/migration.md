@@ -17,8 +17,22 @@ For the channels that currently exist on HCom, please refer to the Google Drive 
 <hr>
 
 ### Verifying Members 
-As people flood into the new server, we do not want them to unnecessarily go through the whole process of reverification. You should have received a list of Harvard Live members in the form of a `txt` file. Please download this file to your computer and, when a new member joins, `CTRL+F` to find their user ID and roles on Harvard Live. Do not verify based on username and discriminator. Only verify on the basis of their user ID, which you can copy by [enabling developer mode](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/#:~:text=In%20Discord's%20settings%20menu%2C%20select,the%20%E2%80%9CDeveloper%20Mode%E2%80%9D%20option.) on Discord and right clicking on any user.
+As people flood into the new server, we do not want them to unnecessarily go through the whole process of reverification. Follow the setup steps below:
 
-Only assign affiliate roles (the roles with colors), meaning all reaction roles and pronoun roles should be manually added by students rather than by moderators. 
+1. If you have not already, turn on [developer mode](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/#:~:text=In%20Discord's%20settings%20menu%2C%20select,the%20%E2%80%9CDeveloper%20Mode%E2%80%9D%20option.). 
 
-Once you verify a new affiliate, react to their join message in order to notify other mods that they are verified. 
+2. Choose a unique emoji to represent you and your verifications. React to BT's message in the control hub with your unique emoji. Do not react to anyone else's. 
+
+To verify members: 
+
+1. Confirm that you have the list of Harvard Live members and their roles. You should receive a list of Harvard Live members in the form of a `txt` file on the morning of the migration. Download this file to your computer.
+
+2. When a new member joins, if you want to verify them, react to their `#join-log` message with your emoji. If someone else reacts before you but around the same time, simply remove your reaction.
+
+3. When a new member joins, right click on their @ in `#join-log` to get their ID. `CTRL+F` in the `members.txt` to find the roles associated with their ID in the file. Do not verify based on username and discriminator. Only verify on the basis of their user ID.
+
+4. Assign affiliate roles (the roles with colors). All reaction roles and pronoun roles should be manually added by students rather than by moderators. 
+
+5. Once you verify a new affiliate, react to their join message with a check. If they had no roles on HLive or you could not verify them, react with an X. 
+
+If you have questions or concerns, feel free to put them in `#join-log`. 
