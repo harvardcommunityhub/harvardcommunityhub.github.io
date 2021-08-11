@@ -6,6 +6,8 @@
       path: public_channels.md
     - name: Rules
       path: rules.md
+    - name: Kindness
+      path: kindness.md
 - name: Moderation
   files:
     - name: Moderators
