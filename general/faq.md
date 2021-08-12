@@ -17,3 +17,6 @@ Our primary language is English. While we encourage people from all ethnic and n
 
 #### Someone violated a server rule! What do I do? 
 The first thing you should do is take a screenshot and ping `@Mods` and `@Admins`. If the person deletes their comment, you will have proof to send to moderators and administrators. We will handle it from there. If someone is being openly antagonistic, we encourage you to not engage and simply ping or PM moderators and administrators. 
+
+#### Why did you make a new server? 
+In short, the owner of the previous server was wildly inactive for months at a time.  They would only come online once every few months to give instruction to the moderators or randomly remove permissions, which indicated how wildly out of touch they were.  When the issue was brought to the community, the community began protesting his ownership.  Our most active and trusted members began to leave, and many of the LGBT+ members left as he violated the privacy of the LGBT+ chat.  In an effort to preserve the community, we migrated here, to HCom! You can find more information about the motivation for the migration [here](https://harvardcommunityhub.github.io/general/migration).

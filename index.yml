@@ -8,6 +8,8 @@
       path: rules.md
     - name: Kindness
       path: kindness.md
+    - name: Migration
+      path: migration.md
 - name: Moderation
   files:
     - name: Moderators
