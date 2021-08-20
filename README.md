@@ -4,7 +4,7 @@ Welcome to the Harvard Community Hub website! The Harvard Community Hub was foun
 
 On this website, users will have access to a number of resources, community updates, and more. To ensure transparency with members of the server, we have also made all of our moderation policies and processes publicly available. 
 
-Join the [Harvard Community Hub](https://discord.gg/BGKAWZAGJw), lovingly known to students as HCom, now!
+Join the [Harvard Community Hub](https://discord.gg/harvard), lovingly known to students as HCom, now!
 
 ### Navigation 
 
