@@ -12,6 +12,7 @@ Join the [Harvard Community Hub](https://discord.gg/BGKAWZAGJw), lovingly known 
 <img src="images/harvard_crest.png" height=14px> [Rules](https://harvardcommunityhub.github.io/general/rules) \
 <img src="images/harvard_crest.png" height=14px> [Public Channel Information](https://harvardcommunityhub.github.io/general/public_channels) \
 <img src="images/harvard_crest.png" height=14px> [General FAQs](https://harvardcommunityhub.github.io/general/faq) \
+<img src="images/harvard_crest.png" height=14px> [Admissions FAQs](https://harvardcommunityhub.github.io/general/admissions) \
 <img src="images/harvard_crest.png" height=14px> [Migration](https://harvardcommunityhub.github.io/general/migration) 
 
 #### Student and Alumnae Information 

@@ -10,6 +10,8 @@
       path: kindness.md
     - name: Migration
       path: migration.md
+    - name: Admissions FAQ
+      path: admissions.md
 - name: Moderation
   files:
     - name: Moderators
@@ -30,3 +32,7 @@
       path: involvement.md
     - name: Privacy
       path: privacy.md
+- name: Backups
+  files:
+    - name: Housing QnA
+      path: housingqna.html
