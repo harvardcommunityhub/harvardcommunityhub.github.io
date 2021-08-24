@@ -1,7 +1,7 @@
 # Admissions FAQ
 While HCom is not an admissions help server, we do often get questions about admissions from folks in the public channels. In order to limit repetition, we've compiled some of our commonly asked questions about admissions here. 
 
-#### Will a recommendation from a Harvard professor, alumnae, etc. help me get in? 
+#### Will a recommendation from a Harvard professor, alumnus, etc. help me get in? 
 In short, it depends. If that particular person knows you well and will write you a compelling letter of recommendation, then yes, it will help! If they are a Harvard affiliate who does not know you well, then they likely will not write a compelling rec, which will only harm your application. In short, choose the person over the prestige. Your recommendations should come from teachers who know you well and are ethusiastic about recommending you to colleges. Anything less will hurt your application more than it will help it.
 
 #### What extracurriculars should I do to bolster my chances of acceptance? 
