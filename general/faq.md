@@ -7,7 +7,7 @@ Yes! Unfortunately, your activity on the server will be limited. For example, yo
 Head to the `#verify-here` channel on the server! The most up-to-date verification process will be outlined there. 
 
 #### How do I know who is a student? 
-Anyone whose name is colored (any color other than white) has a relevant role. Light blue coloring indicates undergraduate students. Pink indicates graduate. Green indicates alumnae. Orange indicates prefrosh (incoming freshmen). If you're unsure of a role color's meaning, simply click on the user's name to see their roles! 
+Anyone whose name is colored (any color other than white) has a relevant role. Light blue coloring indicates undergraduate students. Pink indicates graduate. Green indicates alumni. Orange indicates prefrosh (incoming freshmen). If you're unsure of a role color's meaning, simply click on the user's name to see their roles! 
 
 #### Am I allowed to ask for admissions help? 
 It depends. You are more than welcome to ask for tips and such in the `#prospective-students` channel, but keep admissions discussions isolated to there. If you PM students without their permission asking for help or academic advice of any kind, you will be warned and, for subsequent infractions, banned according to our server rules.
